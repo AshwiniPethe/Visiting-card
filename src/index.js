@@ -1,6 +1,5 @@
 import ReactDOM from 'react-dom';
 import ApproveCard from './ApproveCard';
-
 import Comment from './Comments';
 
 const App = ()=>{
